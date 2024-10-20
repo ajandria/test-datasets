@@ -1,2 +1,2 @@
 idat_folder,illumina_sample_sheet
-https://github.com/ajandria/test-datasets/blob/methylarray/testdata/test/GSE43976/idats.tar.gz,minfi_SampleSheet.csv
+https://github.com/ajandria/test-datasets/raw/refs/heads/methylarray/testdata/test/GSE43976/idats.tar.gz,minfi_SampleSheet.csv
